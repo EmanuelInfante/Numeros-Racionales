@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1593710652 source:/home/gabriel/Documentos/pruebas/calcular_numeros_racionales/main.cpp
+	<iostream>
+
+1593884267 source:/home/gabriel/Documentos/programacion_cplusplus/programas_trabajo/calcular_numeros_racionales/main.cpp
+	<iostream>
+	<cmath>
+
